@@ -1,0 +1,21 @@
+
+  
+  Matlab ADS-B Message Decoder
+  --
+
+  This is pretty much a work in progress.
+
+  Sources:
+  1.  A Guide on Decoding ADS-B Messages
+      Authors: Junzi Sun, Jacco Heokstra, Joost EllerBroek
+      http://adsb-decode-guide.readthedocs.org/en/latest/
+  2.  Decoding ADS-B Position
+      Author: Edward John Cardew
+      http://www.lll.lu/~edward/edward/adsb/DecodingADSBposition.html
+  3.  Mapping Planes Using ADS-B
+      Author: James Coote
+      https://www.sussex.ac.uk/webteam/gateway/file.php?name=coote-proj.pdf
+
+  Also, part of cpr_to_position.m is translated from a python ADS-B decoder,
+  originally written by Junzi Sun as part of [1].
+
